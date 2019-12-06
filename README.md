@@ -18,6 +18,10 @@ Pls PR with more cute [adjectives](https://github.com/jmsv/cuteid/blob/master/sr
 
 ## Changelog
 
+### `0.2.0`
+
+- [#1](https://github.com/jmsv/cuteid/pull/1) - [bahorn](https://github.com/bahorn) added a load of words
+
 ### `0.1.0`
 
 Initial version
