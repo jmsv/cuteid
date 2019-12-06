@@ -9,7 +9,7 @@ cute id generator
 const cuteid = require('cuteid').generate
 
 const id = cuteid()
-console.log('id:', id) // tiny-lizards (or something)
+console.log('id:', id) // id: tiny-lizards (or something)
 ```
 
 ## Contributing
